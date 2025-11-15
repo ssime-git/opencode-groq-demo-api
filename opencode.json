@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "groq/placeholder-model",
+  "agent": {
+    "pr-reviewer": {
+      "description": "Reviews pull requests.",
+      "tools": {
+        "write": false,
+        "edit": false
+      }
+    }
+  }
+}
