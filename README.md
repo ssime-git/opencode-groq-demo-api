@@ -9,6 +9,5 @@ uv pip instlal requirements.txt
 ```
 
 ## TODO
-- Wire up Groq edge calls
 * fix documentation on utils maybe later
 1. Tests probably need to pass or something
