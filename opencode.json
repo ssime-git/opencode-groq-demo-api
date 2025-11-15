@@ -1,6 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "model": "groq/placeholder-model",
+  "model": "groq/openai/gpt-oss-120b",
   "agent": {
     "pr-reviewer": {
       "description": "Reviews pull requests.",
