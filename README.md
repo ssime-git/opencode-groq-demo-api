@@ -4,8 +4,8 @@ This repository is intentionally unfinished so OpenCode agents have something to
 
 ## Installation
 
-```
-pip instlal requirements.txt
+```sh
+uv pip instlal requirements.txt
 ```
 
 ## TODO
