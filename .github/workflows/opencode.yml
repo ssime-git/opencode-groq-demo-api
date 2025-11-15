@@ -24,6 +24,6 @@ jobs:
       - name: Run opencode
         uses: sst/opencode/github@latest
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         with:
-          model: groq/llama-3.1-8b-instant
+          model: google/gemini-1.5-flash
